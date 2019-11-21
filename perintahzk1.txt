@@ -5,6 +5,6 @@
 ✓pkg install figlet
 ✓pip2 install lolcat
 ✓pkg install python2
-✓git clone https://github.com/ZK1Hacker/ZK1-CYBER
+✓git clone https://github.com/dika11/Hacker-Me
 
 Jangan Lupa SUBSCRIBE Channel : Roni YT
