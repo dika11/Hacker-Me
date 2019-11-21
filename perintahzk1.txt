@@ -1,0 +1,10 @@
+✓pkg update
+✓pkg upgrade
+✓pkg install git
+✓pkg install php
+✓pkg install figlet
+✓pip2 install lolcat
+✓pkg install python2
+✓git clone https://github.com/ZK1Hacker/ZK1-CYBER
+
+Jangan Lupa SUBSCRIBE Channel : Roni YT
